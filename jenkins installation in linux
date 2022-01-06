@@ -13,4 +13,4 @@ first create amazon linux image instance and connect to putty or gitbash,
     systemctl start jenkins
     systemctl status jenkins
     cat /var/lib/jenkins/secrets/initialAdminPassword
-    ((this is all about jenkins installation throught linux ami))
+   {((this is all about jenkins installation throught linux ami))}
